@@ -1,0 +1,28 @@
+Evaluación final del curso
+
+ Trabajo práctico integrador finalTarea
+Desarrollar un sitio web utilizando Bootstrap.
+
+La temática es libre.
+
+- Cada alumno deberá elegir un tema de su preferencia y desarrollar un sitio de 3 secciones (inicio y 2 secciones), con información sobre el tema elegido.
+
+
+Detalle de contenido:
+
+- Estructura de maquetación utilizando el Grid System de Boostrap (módulos/columnas)
+
+- Hoja de estilos con reglas personalizadas (para complementar los estilos de Bootstrap)
+
+- Al menos 2 clases de Bootstrap para contenido (componentes CSS)
+
+- Al menos 1 formulario
+
+- Al menos 1 componente que utilice Javascript
+
+
+- Formato de entrega:  URL con el sitio online. Detalle de lo implementado.
+
+- Fecha de entrega:  18 de Marzo de 2021
+
+- Fecha de recuperatorio: 25 de Marzo de 2021
